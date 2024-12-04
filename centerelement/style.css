@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+
+    width: 200px;
+    height: 200px;
+    background-color: #354a53;
+    border: 1px solid white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
